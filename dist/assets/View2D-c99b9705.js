@@ -1,0 +1,1 @@
+import{d as a,r as s,y as t,A as c,o,h as r}from"./index-be16815d.js";const _=a({__name:"View2D",setup(p){const e=s();return t(()=>{c.instance.initSence2D(e.value)}),(n,i)=>(o(),r("div",{ref_key:"sence2d",ref:e,class:"container",id:""},null,512))}});export{_ as default};

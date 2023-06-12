@@ -1,0 +1,1 @@
+import{d as a,r as o,y as s,A as n,o as c,h as r}from"./index-be16815d.js";const _=a({__name:"View3D",setup(i){const t=o();return s(()=>{let e=n.instance;e.initSence3D(t.value),n.jsonData?(e.initDocmentByJSON(n.jsonData),n.jsonData=null):e.initDocment("./FloorData/test.json")}),(e,l)=>(c(),r("div",{ref_key:"sence3d",ref:t,class:"container"},null,512))}});export{_ as default};

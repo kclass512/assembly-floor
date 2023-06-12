@@ -1,0 +1,1 @@
+import{_ as e,o as t,h as s,b as _}from"./index-be16815d.js";const c={},o={class:"rollTable"},a=_("div",{class:"contain-page",id:"create-page"},null,-1),n=[a];function r(i,l){return t(),s("div",o,n)}const u=e(c,[["render",r]]);export{u as default};
